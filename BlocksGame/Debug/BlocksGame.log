@@ -1,0 +1,7 @@
+﻿  GameController.cpp
+d:\大學\實驗室\blocksgame_2\blocksgame\gamecontroller.cpp(80): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大學\實驗室\blocksgame_2\blocksgame\gamecontroller.cpp(81): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  正在略過... (未偵測到相關變更)
+  Graphic.cpp
+  BlocksGame.vcxproj -> D:\大學\實驗室\BlocksGame_2\Debug\BlocksGame.exe
